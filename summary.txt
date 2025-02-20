@@ -1,0 +1,14 @@
+Operations performed on 20/2/2025, 10:44:16 pm:
+
+Created folder: Documents
+Moved file: JAVA_copy.pdf to Documents
+Created folder: Images
+Moved file: Screenshot 2024-02-15 220507.png to Images
+Created folder: Videos
+Moved file: Venom 2018 2160p BluRay UHD SDR x265 10bit Hindi-English DD5.1 MSubs TsS Vegamovies.to.mkv to Videos
+Operations performed on 20/2/2025, 10:45:05 pm:
+
+Created folder: Others
+Moved file: Documents to Others
+Moved file: Images to Others
+Moved file: Videos to Others
